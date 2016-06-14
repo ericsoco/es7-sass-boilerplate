@@ -1,7 +1,7 @@
 {
-  "name": "baby-names",
+  "name": "es7-sass-boilerplate",
   "version": "0.0.1",
-  "description": "USA baby names exploration",
+  "description": "Boilerplate for using ES6/ES7 syntax, modules, and Sass.",
   "scripts": {
     "start": "npm run sass && npm run watch & npm run serve",
     "watch": "npm run js:watch & npm run sass:watch & npm run static:watch",

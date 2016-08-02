@@ -25,7 +25,8 @@
     "watchify": "^3.7.0"
   },
   "dependencies": {
-    "babel-polyfill": "^6.8.0"
+    "babel-polyfill": "^6.8.0",
+    "d3": "^4.2.0"
   },
   "browserify": {
     "transform": [

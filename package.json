@@ -30,7 +30,11 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.8.0",
-    "d3": "^4.2.0"
+    "d3": "^4.2.0",
+    "d3-axis": "^1.0.3",
+    "d3-brush": "^1.0.2",
+    "d3-scale": "^1.0.3",
+    "d3-selection": "^1.0.2"
   },
   "browserify": {
     "transform": [

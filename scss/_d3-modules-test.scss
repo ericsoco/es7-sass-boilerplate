@@ -1,0 +1,17 @@
+.d3-modules-test {
+	
+	.axis--grid .domain {
+	  fill: #ddd;
+	  stroke: none;
+	}
+
+	.axis--x .domain,
+	.axis--grid .tick line {
+	  stroke: #fff;
+	}
+
+	.axis--grid .tick--minor line {
+	  stroke-opacity: .5;
+	}
+
+}

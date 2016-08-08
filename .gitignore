@@ -1,2 +1,15 @@
+# Logs
+*.log
+npm-debug.log*
+
+# dependencies
 node_modules
+
+# built stuff
+build
+deploy
 dist
+
+# OSX, pleeze.
+.DS_Store
+
